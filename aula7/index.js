@@ -1,0 +1,1 @@
+const nome = "Emerson José";
